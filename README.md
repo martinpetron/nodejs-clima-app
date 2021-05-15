@@ -1,5 +1,5 @@
 # INFO
-This is an standard CRUD app for tasks. Using Inquirer for menu option simplification.
+This is an standard app which uses REST API from Openweather and Mapbox to bring weather precisely. Using Inquirer for menu option simplification.
 ```
 $ node index
 =========================
